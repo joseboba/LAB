@@ -1,0 +1,13 @@
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\bin\Debug\labArchivosDeTexto.exe.config
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\bin\Debug\labArchivosDeTexto.exe
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\bin\Debug\labArchivosDeTexto.pdb
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.csproj.AssemblyReference.cache
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.csproj.SuggestedBindingRedirects.cache
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.CrearMunicipio.resources
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.Form1.resources
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.Properties.Resources.resources
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.csproj.GenerateResource.cache
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.csproj.CoreCompileInputs.cache
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.exe
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.pdb
+D:\UMG\3er semestre\Programacion 1\labArchivosDeTexto\labArchivosDeTexto\obj\Debug\labArchivosDeTexto.BuscarMunicipio.resources
